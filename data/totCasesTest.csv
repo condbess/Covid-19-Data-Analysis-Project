@@ -1,0 +1,12 @@
+Row_ID,Accurate_Episode_Date,Case_Reported_Date,Test_Reported_Date,Specimen_Date,Age_Group,Client_Gender,Case_AcquisitionInfo,Outcome1,Outbreak_Related,Reporting_PHU_ID,Reporting_PHU,Reporting_PHU_Address,Reporting_PHU_City,Reporting_PHU_Postal_Code,Reporting_PHU_Website,Reporting_PHU_Latitude,Reporting_PHU_Longitude
+1,2020-04-10,2020-03-13,2020-04-13,2020-04-12,50s,FEMALE,NO KNOWN EPI LINK,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+2,2020-09-13,2020-09-15,2020-04-15,2020-04-14,50s,FEMALE,OB,Resolved,Yes,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+3,2020-09-25,2020-09-02,2020-04-02,2020-03-30,50s,FEMALE,CC,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+4,2020-10-02,2020-10-03,2020-07-03,2020-07-02,30s,MALE,CC,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+5,2020-12-19,2020-12-21,2020-05-21,2020-05-19,20s,FEMALE,CC,Resolved,,2236,Halton Region Health Department,1151 Bronte Road,Oakville,L6M 3Ll,www.halton.ca/For-Residents/Public-Health/ ,43.41399692,-79.74479581
+6,2021-01-10,2021-01-19,2020-04-19,2020-04-12,60s,FEMALE,OB,Resolved,Yes,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+7,2020-10-09,2020-10-14,2020-05-14,2020-05-13,30s,MALE,NO KNOWN EPI LINK,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+8,2021-02-13,2021-02-17,2020-04-17,2020-04-15,50s,MALE,OB,Resolved,Yes,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+9,2021-01-21,2021-01-24,2020-04-24,2020-04-23,30s,FEMALE,CC,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+10,2021-03-12,2021-03-15,2020-05-16,2020-05-15,40s,MALE,CC,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
+11,2020-12-28,2020-12-03,2020-04-03,2020-04-01,40s,FEMALE,CC,Resolved,,2253,Peel Public Health,7120 Hurontario Street,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6474713,-79.7088933
